@@ -4,7 +4,7 @@
   "description": "A GET/SET API for Pronote (not sure for SET)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Not test command\""
+    "test": "echo Not test command"
   },
   "repository": {
     "type": "git",
