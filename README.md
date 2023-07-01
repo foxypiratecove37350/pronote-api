@@ -16,3 +16,9 @@ PronoteApi.login(username, password, etablissementID)
 // ...
 // Under construction...
 ```
+
+## Documentations
+Retrouvez toute la Documentation dans [DOCS.md](https://www.github.com/foxypiratecove37350/pronote-api/blob/main/DOCS.md).
+
+## Licence
+Retrouvez la Licence dans [LICENSE](https://www.github.com/foxypiratecove37350/pronote-api/blob/main/LICENSE).
