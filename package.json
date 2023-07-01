@@ -2,7 +2,7 @@
   "name": "pronote-api",
   "version": "1.0.0",
   "description": "A GET/SET API for Pronote (not sure for SET)",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Not test command\""
   },
